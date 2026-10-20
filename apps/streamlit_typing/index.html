@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root { --ink: #23253A; --muted: #6B6F86; --line: #D9DCE8; --paper: #FFFFFF; --accent: #6E6AE8; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: transparent; font-family: "Atkinson Hyperlegible", system-ui, sans-serif; color: var(--ink); }
+  form { display: flex; gap: 10px; align-items: flex-end; padding: 2px; }
+  textarea {
+    flex: 1; resize: none; min-height: 48px; max-height: 160px; padding: 13px 16px;
+    font: inherit; font-size: 16px; line-height: 1.4; color: var(--ink);
+    background: var(--paper); border: 1.5px solid var(--line); border-radius: 22px; outline: none;
+  }
+  textarea:focus-visible { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent); }
+  button {
+    height: 48px; padding: 0 22px; border: 0; border-radius: 24px; cursor: pointer;
+    font: inherit; font-weight: 700; font-size: 15px; color: #fff; background: var(--accent);
+  }
+  button:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+  button:disabled, textarea:disabled { opacity: .55; cursor: not-allowed; }
+  .hint { font-size: 12.5px; color: var(--muted); margin: 6px 6px 0; }
+</style>
+</head>
+<body>
+<form id="f" autocomplete="off">
+  <label for="t" style="position:absolute;left:-9999px">Your message</label>
+  <textarea id="t" rows="1" maxlength="2000"></textarea>
+  <button id="b" type="submit">Send</button>
+</form>
+<div class="hint" id="hint"></div>
+<script>
+  // Minimal Streamlit component protocol (no build step needed).
+  const send = (type, data) => window.parent.postMessage(Object.assign({ isStreamlitMessage: true, type }, data), "*");
+  const setValue = (value) => send("streamlit:setComponentValue", { value, dataType: "json" });
+  const setHeight = () => send("streamlit:setFrameHeight", { height: document.body.scrollHeight + 4 });
+
+  const t = document.getElementById("t"), b = document.getElementById("b"), f = document.getElementById("f");
+  const hint = document.getElementById("hint");
+  let consent = false, turnId = null, turnShownAt = performance.now(), wasDisabled = true, draftId = null;
+  let firstKeyAt = null, lastKeyAt = null, keystrokes = 0, backspaces = 0, hesitations = 0;
+
+  function resetStats() { firstKeyAt = lastKeyAt = null; keystrokes = backspaces = hesitations = 0; }
+
+  function grow() { t.style.height = "auto"; t.style.height = Math.min(t.scrollHeight, 160) + "px"; setHeight(); }
+
+  t.addEventListener("keydown", (e) => {
+    // isComposing: Enter that confirms an IME candidate (Japanese, Chinese, Korean…) must not send.
+    if (e.key === "Enter" && !e.shiftKey && !e.isComposing) { e.preventDefault(); f.requestSubmit(); return; }
+    const now = performance.now();
+    if (firstKeyAt === null) firstKeyAt = now;
+    if (lastKeyAt !== null && now - lastKeyAt > 2000) hesitations++;
+    lastKeyAt = now;
+    keystrokes++;
+    if (e.key === "Backspace" || e.key === "Delete") backspaces++;
+  });
+  t.addEventListener("input", grow);
+
+  f.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const text = t.value.trim();
+    if (!text || t.disabled) return;
+    const now = performance.now();
+    // Only numbers leave this box; never keystroke contents or deleted text.
+    const typing = consent && firstKeyAt !== null ? {
+      reply_latency_ms: Math.round(firstKeyAt - turnShownAt),
+      compose_ms: Math.round(now - firstKeyAt),
+      pause_before_send_ms: Math.round(now - lastKeyAt),
+      keystrokes, backspaces, hesitations,
+    } : null;
+    setValue({ nonce: Date.now() + "-" + Math.random().toString(36).slice(2), text, typing });
+    t.value = ""; resetStats(); grow();
+  });
+
+  window.addEventListener("message", (event) => {
+    if (event.data.type !== "streamlit:render") return;
+    const args = event.data.args || {};
+    consent = !!args.consent;
+    t.placeholder = args.placeholder || "Say something…";
+    const disabled = !!args.disabled;
+    t.disabled = b.disabled = disabled;
+    if (args.accent) document.documentElement.style.setProperty("--accent", args.accent);
+    hint.textContent = args.hint || "";
+    const newTurn = args.turn_id !== turnId;
+    if (newTurn) { turnId = args.turn_id; turnShownAt = performance.now(); resetStats(); }
+    // Put a message back after a failed send.
+    if (args.draft && args.draft.id !== draftId) { draftId = args.draft.id; t.value = args.draft.text; grow(); }
+    // Take focus only when it becomes the user's turn, not on every rerun (it would steal focus from other controls).
+    if (!disabled && (newTurn || wasDisabled)) t.focus({ preventScroll: true });
+    wasDisabled = disabled;
+    setHeight();
+  });
+
+  send("streamlit:componentReady", { apiVersion: 1 });
+  setHeight();
+</script>
+</body>
+</html>

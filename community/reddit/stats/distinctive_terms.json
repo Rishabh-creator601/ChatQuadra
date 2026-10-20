@@ -1,0 +1,3234 @@
+{
+ "INTJ": [
+  {
+   "term": "bridge",
+   "z": 14.93,
+   "count": 71
+  },
+  {
+   "term": "praise",
+   "z": 11.72,
+   "count": 57
+  },
+  {
+   "term": "row",
+   "z": 10.84,
+   "count": 47
+  },
+  {
+   "term": "grumpy",
+   "z": 10.43,
+   "count": 36
+  },
+  {
+   "term": "front",
+   "z": 9.26,
+   "count": 92
+  },
+  {
+   "term": "god",
+   "z": 8.63,
+   "count": 99
+  },
+  {
+   "term": "answer",
+   "z": 8.0,
+   "count": 170
+  },
+  {
+   "term": "delete",
+   "z": 7.44,
+   "count": 30
+  },
+  {
+   "term": "alone",
+   "z": 6.99,
+   "count": 181
+  },
+  {
+   "term": "loneliness",
+   "z": 6.81,
+   "count": 31
+  },
+  {
+   "term": "lie",
+   "z": 6.57,
+   "count": 51
+  },
+  {
+   "term": "emptiness",
+   "z": 6.57,
+   "count": 15
+  },
+  {
+   "term": "motive",
+   "z": 6.5,
+   "count": 15
+  },
+  {
+   "term": "dan",
+   "z": 6.49,
+   "count": 14
+  },
+  {
+   "term": "logic",
+   "z": 6.45,
+   "count": 107
+  },
+  {
+   "term": "statue",
+   "z": 6.31,
+   "count": 13
+  },
+  {
+   "term": "political",
+   "z": 6.24,
+   "count": 33
+  },
+  {
+   "term": "chess",
+   "z": 6.2,
+   "count": 24
+  },
+  {
+   "term": "problem",
+   "z": 6.18,
+   "count": 194
+  },
+  {
+   "term": "incompetence",
+   "z": 6.11,
+   "count": 13
+  },
+  {
+   "term": "correct",
+   "z": 6.07,
+   "count": 68
+  },
+  {
+   "term": "feels pointless",
+   "z": 5.95,
+   "count": 11
+  },
+  {
+   "term": "bad mood",
+   "z": 5.94,
+   "count": 12
+  },
+  {
+   "term": "incompetent",
+   "z": 5.88,
+   "count": 16
+  },
+  {
+   "term": "competence",
+   "z": 5.88,
+   "count": 23
+  },
+  {
+   "term": "military",
+   "z": 5.85,
+   "count": 25
+  },
+  {
+   "term": "everyone doing",
+   "z": 5.84,
+   "count": 11
+  },
+  {
+   "term": "universe",
+   "z": 5.83,
+   "count": 37
+  },
+  {
+   "term": "noise",
+   "z": 5.8,
+   "count": 25
+  },
+  {
+   "term": "answers feel",
+   "z": 5.69,
+   "count": 10
+  },
+  {
+   "term": "worship",
+   "z": 5.69,
+   "count": 12
+  },
+  {
+   "term": "gods",
+   "z": 5.69,
+   "count": 12
+  },
+  {
+   "term": "second row",
+   "z": 5.69,
+   "count": 10
+  },
+  {
+   "term": "status",
+   "z": 5.64,
+   "count": 33
+  },
+  {
+   "term": "units",
+   "z": 5.6,
+   "count": 11
+  },
+  {
+   "term": "different functions",
+   "z": 5.51,
+   "count": 12
+  },
+  {
+   "term": "mastermind",
+   "z": 5.51,
+   "count": 10
+  },
+  {
+   "term": "hostile",
+   "z": 5.45,
+   "count": 14
+  },
+  {
+   "term": "display",
+   "z": 5.43,
+   "count": 17
+  },
+  {
+   "term": "long ass",
+   "z": 5.42,
+   "count": 10
+  }
+ ],
+ "INTP": [
+  {
+   "term": "pole",
+   "z": 10.7,
+   "count": 42
+  },
+  {
+   "term": "ideas",
+   "z": 10.61,
+   "count": 158
+  },
+  {
+   "term": "religious",
+   "z": 10.15,
+   "count": 66
+  },
+  {
+   "term": "knowledge",
+   "z": 9.47,
+   "count": 83
+  },
+  {
+   "term": "agnostic",
+   "z": 9.23,
+   "count": 24
+  },
+  {
+   "term": "linux",
+   "z": 9.06,
+   "count": 23
+  },
+  {
+   "term": "arrogant",
+   "z": 8.89,
+   "count": 36
+  },
+  {
+   "term": "manifested",
+   "z": 8.63,
+   "count": 21
+  },
+  {
+   "term": "law",
+   "z": 8.29,
+   "count": 45
+  },
+  {
+   "term": "brain",
+   "z": 7.97,
+   "count": 123
+  },
+  {
+   "term": "science",
+   "z": 7.78,
+   "count": 54
+  },
+  {
+   "term": "human",
+   "z": 7.72,
+   "count": 122
+  },
+  {
+   "term": "fortnite",
+   "z": 7.7,
+   "count": 17
+  },
+  {
+   "term": "jesus",
+   "z": 7.6,
+   "count": 23
+  },
+  {
+   "term": "stuffs",
+   "z": 7.48,
+   "count": 19
+  },
+  {
+   "term": "duality",
+   "z": 7.48,
+   "count": 19
+  },
+  {
+   "term": "dots",
+   "z": 7.42,
+   "count": 19
+  },
+  {
+   "term": "existence",
+   "z": 7.36,
+   "count": 37
+  },
+  {
+   "term": "ego",
+   "z": 7.3,
+   "count": 64
+  },
+  {
+   "term": "insults",
+   "z": 7.03,
+   "count": 17
+  },
+  {
+   "term": "conference",
+   "z": 7.02,
+   "count": 14
+  },
+  {
+   "term": "god",
+   "z": 7.02,
+   "count": 80
+  },
+  {
+   "term": "physics",
+   "z": 6.96,
+   "count": 24
+  },
+  {
+   "term": "religion",
+   "z": 6.94,
+   "count": 38
+  },
+  {
+   "term": "reasoning",
+   "z": 6.85,
+   "count": 50
+  },
+  {
+   "term": "believe god",
+   "z": 6.8,
+   "count": 14
+  },
+  {
+   "term": "morally",
+   "z": 6.79,
+   "count": 29
+  },
+  {
+   "term": "logical",
+   "z": 6.78,
+   "count": 94
+  },
+  {
+   "term": "infinite",
+   "z": 6.74,
+   "count": 20
+  },
+  {
+   "term": "analysis",
+   "z": 6.73,
+   "count": 51
+  },
+  {
+   "term": "paradox",
+   "z": 6.61,
+   "count": 15
+  },
+  {
+   "term": "atheist",
+   "z": 6.57,
+   "count": 16
+  },
+  {
+   "term": "absolute",
+   "z": 6.47,
+   "count": 42
+  },
+  {
+   "term": "theory",
+   "z": 6.44,
+   "count": 78
+  },
+  {
+   "term": "biases",
+   "z": 6.42,
+   "count": 16
+  },
+  {
+   "term": "universe",
+   "z": 6.37,
+   "count": 36
+  },
+  {
+   "term": "mainstream",
+   "z": 6.31,
+   "count": 15
+  },
+  {
+   "term": "rabbit",
+   "z": 6.3,
+   "count": 24
+  },
+  {
+   "term": "computer",
+   "z": 6.2,
+   "count": 26
+  },
+  {
+   "term": "truth",
+   "z": 6.13,
+   "count": 87
+  }
+ ],
+ "ENTJ": [
+  {
+   "term": "execution",
+   "z": 11.39,
+   "count": 42
+  },
+  {
+   "term": "business",
+   "z": 10.41,
+   "count": 94
+  },
+  {
+   "term": "goal",
+   "z": 10.0,
+   "count": 80
+  },
+  {
+   "term": "ambitious",
+   "z": 8.66,
+   "count": 30
+  },
+  {
+   "term": "achieve",
+   "z": 8.32,
+   "count": 43
+  },
+  {
+   "term": "psychopathy",
+   "z": 7.92,
+   "count": 16
+  },
+  {
+   "term": "burnout",
+   "z": 7.7,
+   "count": 26
+  },
+  {
+   "term": "efficient",
+   "z": 7.61,
+   "count": 39
+  },
+  {
+   "term": "goals",
+   "z": 7.57,
+   "count": 71
+  },
+  {
+   "term": "gate",
+   "z": 7.4,
+   "count": 15
+  },
+  {
+   "term": "machiavellianism",
+   "z": 7.39,
+   "count": 14
+  },
+  {
+   "term": "somatic",
+   "z": 7.13,
+   "count": 13
+  },
+  {
+   "term": "money",
+   "z": 7.04,
+   "count": 97
+  },
+  {
+   "term": "wasting",
+   "z": 6.95,
+   "count": 24
+  },
+  {
+   "term": "plan",
+   "z": 6.75,
+   "count": 88
+  },
+  {
+   "term": "leadership",
+   "z": 6.67,
+   "count": 36
+  },
+  {
+   "term": "financially",
+   "z": 6.65,
+   "count": 25
+  },
+  {
+   "term": "ambitions",
+   "z": 6.52,
+   "count": 13
+  },
+  {
+   "term": "work",
+   "z": 6.37,
+   "count": 409
+  },
+  {
+   "term": "emotions",
+   "z": 6.35,
+   "count": 145
+  },
+  {
+   "term": "addiction",
+   "z": 6.26,
+   "count": 18
+  },
+  {
+   "term": "fucked",
+   "z": 6.23,
+   "count": 22
+  },
+  {
+   "term": "tax",
+   "z": 6.22,
+   "count": 12
+  },
+  {
+   "term": "taxes",
+   "z": 6.14,
+   "count": 12
+  },
+  {
+   "term": "ambition",
+   "z": 6.1,
+   "count": 17
+  },
+  {
+   "term": "vulnerability",
+   "z": 6.09,
+   "count": 30
+  },
+  {
+   "term": "businesses",
+   "z": 6.06,
+   "count": 13
+  },
+  {
+   "term": "emotional",
+   "z": 6.05,
+   "count": 180
+  },
+  {
+   "term": "planning",
+   "z": 6.03,
+   "count": 54
+  },
+  {
+   "term": "control",
+   "z": 5.9,
+   "count": 90
+  },
+  {
+   "term": "wasting time",
+   "z": 5.83,
+   "count": 15
+  },
+  {
+   "term": "domestic",
+   "z": 5.81,
+   "count": 16
+  },
+  {
+   "term": "achieving",
+   "z": 5.81,
+   "count": 16
+  },
+  {
+   "term": "council",
+   "z": 5.78,
+   "count": 9
+  },
+  {
+   "term": "diamond",
+   "z": 5.77,
+   "count": 10
+  },
+  {
+   "term": "successful",
+   "z": 5.74,
+   "count": 31
+  },
+  {
+   "term": "fucking",
+   "z": 5.73,
+   "count": 42
+  },
+  {
+   "term": "corporate",
+   "z": 5.71,
+   "count": 23
+  },
+  {
+   "term": "strategic",
+   "z": 5.63,
+   "count": 20
+  },
+  {
+   "term": "ceo",
+   "z": 5.59,
+   "count": 10
+  }
+ ],
+ "ENTP": [
+  {
+   "term": "william",
+   "z": 13.53,
+   "count": 55
+  },
+  {
+   "term": "sky",
+   "z": 11.48,
+   "count": 42
+  },
+  {
+   "term": "hunting",
+   "z": 10.67,
+   "count": 33
+  },
+  {
+   "term": "debate",
+   "z": 10.49,
+   "count": 58
+  },
+  {
+   "term": "religion",
+   "z": 9.66,
+   "count": 49
+  },
+  {
+   "term": "logic",
+   "z": 9.6,
+   "count": 119
+  },
+  {
+   "term": "argument",
+   "z": 9.28,
+   "count": 65
+  },
+  {
+   "term": "trainer",
+   "z": 8.66,
+   "count": 21
+  },
+  {
+   "term": "sibling",
+   "z": 8.53,
+   "count": 27
+  },
+  {
+   "term": "shower",
+   "z": 8.52,
+   "count": 45
+  },
+  {
+   "term": "beliefs",
+   "z": 8.29,
+   "count": 54
+  },
+  {
+   "term": "suggested",
+   "z": 8.12,
+   "count": 41
+  },
+  {
+   "term": "animals",
+   "z": 8.01,
+   "count": 43
+  },
+  {
+   "term": "axis",
+   "z": 7.86,
+   "count": 32
+  },
+  {
+   "term": "debating",
+   "z": 7.82,
+   "count": 28
+  },
+  {
+   "term": "catholic",
+   "z": 7.76,
+   "count": 18
+  },
+  {
+   "term": "golden",
+   "z": 7.72,
+   "count": 55
+  },
+  {
+   "term": "women",
+   "z": 7.55,
+   "count": 123
+  },
+  {
+   "term": "moral",
+   "z": 7.45,
+   "count": 58
+  },
+  {
+   "term": "friendgroup",
+   "z": 7.2,
+   "count": 15
+  },
+  {
+   "term": "good william",
+   "z": 7.08,
+   "count": 15
+  },
+  {
+   "term": "season",
+   "z": 7.04,
+   "count": 29
+  },
+  {
+   "term": "killing",
+   "z": 7.03,
+   "count": 24
+  },
+  {
+   "term": "index",
+   "z": 6.97,
+   "count": 14
+  },
+  {
+   "term": "spam",
+   "z": 6.9,
+   "count": 16
+  },
+  {
+   "term": "religious",
+   "z": 6.81,
+   "count": 49
+  },
+  {
+   "term": "ethel",
+   "z": 6.7,
+   "count": 14
+  },
+  {
+   "term": "foster",
+   "z": 6.68,
+   "count": 19
+  },
+  {
+   "term": "father",
+   "z": 6.57,
+   "count": 50
+  },
+  {
+   "term": "gender",
+   "z": 6.54,
+   "count": 37
+  },
+  {
+   "term": "homeless",
+   "z": 6.54,
+   "count": 23
+  },
+  {
+   "term": "smart",
+   "z": 6.43,
+   "count": 76
+  },
+  {
+   "term": "race",
+   "z": 6.4,
+   "count": 16
+  },
+  {
+   "term": "daughter",
+   "z": 6.39,
+   "count": 31
+  },
+  {
+   "term": "actually",
+   "z": 6.36,
+   "count": 505
+  },
+  {
+   "term": "meat",
+   "z": 6.33,
+   "count": 16
+  },
+  {
+   "term": "based",
+   "z": 6.31,
+   "count": 144
+  },
+  {
+   "term": "fishing",
+   "z": 6.3,
+   "count": 18
+  },
+  {
+   "term": "morality",
+   "z": 6.22,
+   "count": 26
+  },
+  {
+   "term": "program",
+   "z": 6.22,
+   "count": 25
+  }
+ ],
+ "INFJ": [
+  {
+   "term": "depth",
+   "z": 11.05,
+   "count": 89
+  },
+  {
+   "term": "deep",
+   "z": 10.16,
+   "count": 205
+  },
+  {
+   "term": "slam",
+   "z": 8.79,
+   "count": 24
+  },
+  {
+   "term": "someone",
+   "z": 8.64,
+   "count": 751
+  },
+  {
+   "term": "ourselves",
+   "z": 8.42,
+   "count": 78
+  },
+  {
+   "term": "john",
+   "z": 7.83,
+   "count": 21
+  },
+  {
+   "term": "person",
+   "z": 7.75,
+   "count": 622
+  },
+  {
+   "term": "door",
+   "z": 7.71,
+   "count": 51
+  },
+  {
+   "term": "door slam",
+   "z": 7.55,
+   "count": 18
+  },
+  {
+   "term": "feel",
+   "z": 7.25,
+   "count": 1032
+  },
+  {
+   "term": "yourself",
+   "z": 7.06,
+   "count": 252
+  },
+  {
+   "term": "boundaries",
+   "z": 7.04,
+   "count": 95
+  },
+  {
+   "term": "say love",
+   "z": 6.94,
+   "count": 23
+  },
+  {
+   "term": "feeling",
+   "z": 6.76,
+   "count": 298
+  },
+  {
+   "term": "nervous system",
+   "z": 6.76,
+   "count": 25
+  },
+  {
+   "term": "peace",
+   "z": 6.71,
+   "count": 74
+  },
+  {
+   "term": "mirroring",
+   "z": 6.69,
+   "count": 16
+  },
+  {
+   "term": "level",
+   "z": 6.63,
+   "count": 126
+  },
+  {
+   "term": "every subreddit",
+   "z": 6.48,
+   "count": 13
+  },
+  {
+   "term": "glue",
+   "z": 6.46,
+   "count": 13
+  },
+  {
+   "term": "removed moderator",
+   "z": 6.37,
+   "count": 13
+  },
+  {
+   "term": "relationships",
+   "z": 6.28,
+   "count": 164
+  },
+  {
+   "term": "tiring",
+   "z": 6.27,
+   "count": 26
+  },
+  {
+   "term": "type may",
+   "z": 6.24,
+   "count": 14
+  },
+  {
+   "term": "casual",
+   "z": 6.23,
+   "count": 45
+  },
+  {
+   "term": "accountable",
+   "z": 6.21,
+   "count": 19
+  },
+  {
+   "term": "surface",
+   "z": 6.08,
+   "count": 51
+  },
+  {
+   "term": "connection",
+   "z": 6.07,
+   "count": 123
+  },
+  {
+   "term": "romantic life",
+   "z": 5.94,
+   "count": 11
+  },
+  {
+   "term": "guilt",
+   "z": 5.92,
+   "count": 34
+  },
+  {
+   "term": "tell type",
+   "z": 5.92,
+   "count": 12
+  },
+  {
+   "term": "vancouver",
+   "z": 5.89,
+   "count": 11
+  },
+  {
+   "term": "proposal",
+   "z": 5.89,
+   "count": 11
+  },
+  {
+   "term": "currently doing",
+   "z": 5.89,
+   "count": 11
+  },
+  {
+   "term": "witty",
+   "z": 5.86,
+   "count": 20
+  },
+  {
+   "term": "withdrawing",
+   "z": 5.84,
+   "count": 12
+  },
+  {
+   "term": "grind",
+   "z": 5.83,
+   "count": 13
+  },
+  {
+   "term": "cptsd",
+   "z": 5.81,
+   "count": 17
+  },
+  {
+   "term": "ghosted",
+   "z": 5.77,
+   "count": 18
+  },
+  {
+   "term": "deeper",
+   "z": 5.72,
+   "count": 66
+  }
+ ],
+ "INFP": [
+  {
+   "term": "sunday",
+   "z": 13.14,
+   "count": 48
+  },
+  {
+   "term": "moon",
+   "z": 11.69,
+   "count": 43
+  },
+  {
+   "term": "astrology",
+   "z": 11.17,
+   "count": 38
+  },
+  {
+   "term": "sun",
+   "z": 10.34,
+   "count": 44
+  },
+  {
+   "term": "row",
+   "z": 9.64,
+   "count": 37
+  },
+  {
+   "term": "protest",
+   "z": 9.42,
+   "count": 32
+  },
+  {
+   "term": "french",
+   "z": 9.13,
+   "count": 25
+  },
+  {
+   "term": "rising",
+   "z": 8.78,
+   "count": 26
+  },
+  {
+   "term": "selfie",
+   "z": 8.63,
+   "count": 21
+  },
+  {
+   "term": "scorpio",
+   "z": 8.62,
+   "count": 20
+  },
+  {
+   "term": "front",
+   "z": 8.5,
+   "count": 75
+  },
+  {
+   "term": "france",
+   "z": 8.41,
+   "count": 19
+  },
+  {
+   "term": "hair",
+   "z": 8.31,
+   "count": 53
+  },
+  {
+   "term": "front row",
+   "z": 8.23,
+   "count": 18
+  },
+  {
+   "term": "love",
+   "z": 8.08,
+   "count": 525
+  },
+  {
+   "term": "mars",
+   "z": 8.01,
+   "count": 18
+  },
+  {
+   "term": "teasing",
+   "z": 7.96,
+   "count": 31
+  },
+  {
+   "term": "japan",
+   "z": 7.66,
+   "count": 17
+  },
+  {
+   "term": "venus",
+   "z": 7.62,
+   "count": 16
+  },
+  {
+   "term": "mercury",
+   "z": 7.54,
+   "count": 15
+  },
+  {
+   "term": "gemini",
+   "z": 7.53,
+   "count": 20
+  },
+  {
+   "term": "pisces",
+   "z": 7.37,
+   "count": 15
+  },
+  {
+   "term": "libra",
+   "z": 7.31,
+   "count": 15
+  },
+  {
+   "term": "protests",
+   "z": 7.3,
+   "count": 15
+  },
+  {
+   "term": "music",
+   "z": 7.29,
+   "count": 104
+  },
+  {
+   "term": "sagittarius",
+   "z": 7.28,
+   "count": 14
+  },
+  {
+   "term": "long hair",
+   "z": 7.26,
+   "count": 16
+  },
+  {
+   "term": "aquarius",
+   "z": 7.21,
+   "count": 14
+  },
+  {
+   "term": "playlist",
+   "z": 7.01,
+   "count": 22
+  },
+  {
+   "term": "hope",
+   "z": 7.0,
+   "count": 135
+  },
+  {
+   "term": "protesting",
+   "z": 6.91,
+   "count": 16
+  },
+  {
+   "term": "greeting",
+   "z": 6.74,
+   "count": 13
+  },
+  {
+   "term": "sunsets",
+   "z": 6.53,
+   "count": 12
+  },
+  {
+   "term": "berlin",
+   "z": 6.46,
+   "count": 13
+  },
+  {
+   "term": "sad",
+   "z": 6.45,
+   "count": 78
+  },
+  {
+   "term": "aries",
+   "z": 6.39,
+   "count": 15
+  },
+  {
+   "term": "art",
+   "z": 6.37,
+   "count": 60
+  },
+  {
+   "term": "landlord",
+   "z": 6.32,
+   "count": 19
+  },
+  {
+   "term": "day",
+   "z": 6.32,
+   "count": 263
+  },
+  {
+   "term": "demands",
+   "z": 6.27,
+   "count": 17
+  }
+ ],
+ "ENFJ": [
+  {
+   "term": "william",
+   "z": 14.25,
+   "count": 54
+  },
+  {
+   "term": "jane",
+   "z": 13.34,
+   "count": 50
+  },
+  {
+   "term": "stand someone",
+   "z": 12.07,
+   "count": 50
+  },
+  {
+   "term": "friend",
+   "z": 10.3,
+   "count": 329
+  },
+  {
+   "term": "stand",
+   "z": 9.19,
+   "count": 77
+  },
+  {
+   "term": "must",
+   "z": 8.62,
+   "count": 99
+  },
+  {
+   "term": "shelly",
+   "z": 8.36,
+   "count": 51
+  },
+  {
+   "term": "languages",
+   "z": 7.89,
+   "count": 27
+  },
+  {
+   "term": "boundaries",
+   "z": 7.58,
+   "count": 79
+  },
+  {
+   "term": "good william",
+   "z": 7.56,
+   "count": 15
+  },
+  {
+   "term": "season",
+   "z": 7.54,
+   "count": 28
+  },
+  {
+   "term": "pixie",
+   "z": 7.19,
+   "count": 13
+  },
+  {
+   "term": "ethel",
+   "z": 7.18,
+   "count": 14
+  },
+  {
+   "term": "retriever",
+   "z": 7.11,
+   "count": 14
+  },
+  {
+   "term": "golden retriever",
+   "z": 7.11,
+   "count": 14
+  },
+  {
+   "term": "aristotle",
+   "z": 7.06,
+   "count": 13
+  },
+  {
+   "term": "behavior technician",
+   "z": 7.03,
+   "count": 15
+  },
+  {
+   "term": "must someone",
+   "z": 7.0,
+   "count": 22
+  },
+  {
+   "term": "help",
+   "z": 6.98,
+   "count": 277
+  },
+  {
+   "term": "suggested",
+   "z": 6.97,
+   "count": 33
+  },
+  {
+   "term": "cookie",
+   "z": 6.96,
+   "count": 16
+  },
+  {
+   "term": "manic pixie",
+   "z": 6.94,
+   "count": 12
+  },
+  {
+   "term": "chinese",
+   "z": 6.82,
+   "count": 15
+  },
+  {
+   "term": "super power",
+   "z": 6.64,
+   "count": 11
+  },
+  {
+   "term": "manic",
+   "z": 6.62,
+   "count": 13
+  },
+  {
+   "term": "technician",
+   "z": 6.54,
+   "count": 15
+  },
+  {
+   "term": "confrontational",
+   "z": 6.49,
+   "count": 19
+  },
+  {
+   "term": "pixie dream",
+   "z": 6.43,
+   "count": 12
+  },
+  {
+   "term": "takes place",
+   "z": 6.16,
+   "count": 12
+  },
+  {
+   "term": "someone",
+   "z": 6.02,
+   "count": 520
+  },
+  {
+   "term": "helping",
+   "z": 5.98,
+   "count": 49
+  },
+  {
+   "term": "eventually die",
+   "z": 5.98,
+   "count": 9
+  },
+  {
+   "term": "students",
+   "z": 5.95,
+   "count": 26
+  },
+  {
+   "term": "neto",
+   "z": 5.89,
+   "count": 25
+  },
+  {
+   "term": "japanese",
+   "z": 5.88,
+   "count": 15
+  },
+  {
+   "term": "william foster",
+   "z": 5.86,
+   "count": 9
+  },
+  {
+   "term": "chocolate chips",
+   "z": 5.86,
+   "count": 9
+  },
+  {
+   "term": "friends",
+   "z": 5.65,
+   "count": 334
+  },
+  {
+   "term": "kindness",
+   "z": 5.57,
+   "count": 27
+  },
+  {
+   "term": "hazelnuts",
+   "z": 5.52,
+   "count": 8
+  }
+ ],
+ "ENFP": [
+  {
+   "term": "love",
+   "z": 13.75,
+   "count": 620
+  },
+  {
+   "term": "adhd",
+   "z": 11.34,
+   "count": 102
+  },
+  {
+   "term": "friends",
+   "z": 11.24,
+   "count": 441
+  },
+  {
+   "term": "feminine",
+   "z": 8.5,
+   "count": 41
+  },
+  {
+   "term": "aries",
+   "z": 8.03,
+   "count": 19
+  },
+  {
+   "term": "chocolate",
+   "z": 7.05,
+   "count": 23
+  },
+  {
+   "term": "limerence",
+   "z": 6.82,
+   "count": 17
+  },
+  {
+   "term": "ice cream",
+   "z": 6.76,
+   "count": 16
+  },
+  {
+   "term": "diagnosis",
+   "z": 6.74,
+   "count": 20
+  },
+  {
+   "term": "million",
+   "z": 6.7,
+   "count": 22
+  },
+  {
+   "term": "novelty",
+   "z": 6.56,
+   "count": 24
+  },
+  {
+   "term": "women",
+   "z": 6.53,
+   "count": 106
+  },
+  {
+   "term": "bingo",
+   "z": 6.42,
+   "count": 14
+  },
+  {
+   "term": "cos",
+   "z": 6.39,
+   "count": 12
+  },
+  {
+   "term": "heart",
+   "z": 6.33,
+   "count": 74
+  },
+  {
+   "term": "sour",
+   "z": 6.0,
+   "count": 17
+  },
+  {
+   "term": "fire",
+   "z": 5.76,
+   "count": 28
+  },
+  {
+   "term": "lol",
+   "z": 5.73,
+   "count": 244
+  },
+  {
+   "term": "chocolate chips",
+   "z": 5.72,
+   "count": 9
+  },
+  {
+   "term": "cream",
+   "z": 5.72,
+   "count": 16
+  },
+  {
+   "term": "medicated",
+   "z": 5.62,
+   "count": 10
+  },
+  {
+   "term": "bubbly",
+   "z": 5.61,
+   "count": 17
+  },
+  {
+   "term": "cookie",
+   "z": 5.47,
+   "count": 13
+  },
+  {
+   "term": "hazelnuts",
+   "z": 5.4,
+   "count": 8
+  },
+  {
+   "term": "catherine",
+   "z": 5.4,
+   "count": 8
+  },
+  {
+   "term": "lonely",
+   "z": 5.39,
+   "count": 47
+  },
+  {
+   "term": "workload",
+   "z": 5.38,
+   "count": 9
+  },
+  {
+   "term": "haha",
+   "z": 5.29,
+   "count": 73
+  },
+  {
+   "term": "trans",
+   "z": 5.27,
+   "count": 11
+  },
+  {
+   "term": "yearning",
+   "z": 5.22,
+   "count": 8
+  },
+  {
+   "term": "malice",
+   "z": 5.22,
+   "count": 8
+  },
+  {
+   "term": "bpd",
+   "z": 5.19,
+   "count": 14
+  },
+  {
+   "term": "fellow",
+   "z": 5.15,
+   "count": 51
+  },
+  {
+   "term": "enthusiasm",
+   "z": 5.13,
+   "count": 13
+  },
+  {
+   "term": "love love",
+   "z": 5.13,
+   "count": 18
+  },
+  {
+   "term": "positivity",
+   "z": 4.96,
+   "count": 11
+  },
+  {
+   "term": "booked",
+   "z": 4.96,
+   "count": 7
+  },
+  {
+   "term": "softness",
+   "z": 4.94,
+   "count": 12
+  },
+  {
+   "term": "caramel",
+   "z": 4.93,
+   "count": 10
+  },
+  {
+   "term": "retreat",
+   "z": 4.87,
+   "count": 12
+  }
+ ],
+ "ISTJ": [
+  {
+   "term": "tattoos",
+   "z": 12.35,
+   "count": 37
+  },
+  {
+   "term": "rules",
+   "z": 12.35,
+   "count": 86
+  },
+  {
+   "term": "tattoo",
+   "z": 10.45,
+   "count": 30
+  },
+  {
+   "term": "reserved",
+   "z": 8.43,
+   "count": 39
+  },
+  {
+   "term": "fwb",
+   "z": 8.27,
+   "count": 17
+  },
+  {
+   "term": "gus",
+   "z": 8.15,
+   "count": 16
+  },
+  {
+   "term": "visual",
+   "z": 8.14,
+   "count": 27
+  },
+  {
+   "term": "routine",
+   "z": 7.89,
+   "count": 49
+  },
+  {
+   "term": "children",
+   "z": 7.51,
+   "count": 54
+  },
+  {
+   "term": "husband",
+   "z": 7.38,
+   "count": 73
+  },
+  {
+   "term": "flamingo",
+   "z": 7.22,
+   "count": 14
+  },
+  {
+   "term": "past experiences",
+   "z": 7.21,
+   "count": 22
+  },
+  {
+   "term": "follow rules",
+   "z": 7.21,
+   "count": 13
+  },
+  {
+   "term": "jazz",
+   "z": 6.83,
+   "count": 14
+  },
+  {
+   "term": "practical",
+   "z": 6.67,
+   "count": 59
+  },
+  {
+   "term": "worst case",
+   "z": 6.65,
+   "count": 15
+  },
+  {
+   "term": "military",
+   "z": 6.61,
+   "count": 22
+  },
+  {
+   "term": "facts",
+   "z": 6.54,
+   "count": 43
+  },
+  {
+   "term": "aphantasia",
+   "z": 6.53,
+   "count": 12
+  },
+  {
+   "term": "age gap",
+   "z": 6.48,
+   "count": 10
+  },
+  {
+   "term": "kitchen",
+   "z": 6.45,
+   "count": 15
+  },
+  {
+   "term": "code",
+   "z": 6.43,
+   "count": 22
+  },
+  {
+   "term": "notes",
+   "z": 6.35,
+   "count": 22
+  },
+  {
+   "term": "introvert",
+   "z": 6.33,
+   "count": 41
+  },
+  {
+   "term": "having children",
+   "z": 6.27,
+   "count": 10
+  },
+  {
+   "term": "samples",
+   "z": 6.08,
+   "count": 9
+  },
+  {
+   "term": "rigid",
+   "z": 5.89,
+   "count": 30
+  },
+  {
+   "term": "fails",
+   "z": 5.76,
+   "count": 14
+  },
+  {
+   "term": "cold",
+   "z": 5.7,
+   "count": 52
+  },
+  {
+   "term": "he'll",
+   "z": 5.69,
+   "count": 17
+  },
+  {
+   "term": "he's",
+   "z": 5.67,
+   "count": 109
+  },
+  {
+   "term": "poetry",
+   "z": 5.52,
+   "count": 14
+  },
+  {
+   "term": "systematic",
+   "z": 5.52,
+   "count": 9
+  },
+  {
+   "term": "averse",
+   "z": 5.42,
+   "count": 11
+  },
+  {
+   "term": "conscientiousness",
+   "z": 5.42,
+   "count": 8
+  },
+  {
+   "term": "stability",
+   "z": 5.38,
+   "count": 27
+  },
+  {
+   "term": "bagel",
+   "z": 5.38,
+   "count": 15
+  },
+  {
+   "term": "main character",
+   "z": 5.35,
+   "count": 12
+  },
+  {
+   "term": "married",
+   "z": 5.35,
+   "count": 61
+  },
+  {
+   "term": "him",
+   "z": 5.33,
+   "count": 477
+  }
+ ],
+ "ISFJ": [
+  {
+   "term": "school",
+   "z": 21.4,
+   "count": 372
+  },
+  {
+   "term": "though",
+   "z": 21.27,
+   "count": 666
+  },
+  {
+   "term": "adult",
+   "z": 20.22,
+   "count": 189
+  },
+  {
+   "term": "partly",
+   "z": 20.02,
+   "count": 141
+  },
+  {
+   "term": "high school",
+   "z": 19.3,
+   "count": 176
+  },
+  {
+   "term": "middle school",
+   "z": 18.52,
+   "count": 112
+  },
+  {
+   "term": "grade",
+   "z": 17.93,
+   "count": 109
+  },
+  {
+   "term": "bachelors",
+   "z": 17.16,
+   "count": 96
+  },
+  {
+   "term": "social work",
+   "z": 16.4,
+   "count": 84
+  },
+  {
+   "term": "degree",
+   "z": 15.09,
+   "count": 130
+  },
+  {
+   "term": "spite",
+   "z": 15.01,
+   "count": 70
+  },
+  {
+   "term": "middle",
+   "z": 14.9,
+   "count": 148
+  },
+  {
+   "term": "wherein",
+   "z": 14.81,
+   "count": 69
+  },
+  {
+   "term": "actually",
+   "z": 14.37,
+   "count": 742
+  },
+  {
+   "term": "brother",
+   "z": 14.33,
+   "count": 139
+  },
+  {
+   "term": "older",
+   "z": 14.07,
+   "count": 172
+  },
+  {
+   "term": "child",
+   "z": 14.06,
+   "count": 185
+  },
+  {
+   "term": "associates",
+   "z": 13.73,
+   "count": 59
+  },
+  {
+   "term": "hotel",
+   "z": 13.67,
+   "count": 60
+  },
+  {
+   "term": "mother",
+   "z": 13.6,
+   "count": 144
+  },
+  {
+   "term": "community college",
+   "z": 13.1,
+   "count": 54
+  },
+  {
+   "term": "family members",
+   "z": 13.01,
+   "count": 64
+  },
+  {
+   "term": "high",
+   "z": 12.38,
+   "count": 277
+  },
+  {
+   "term": "sincerely",
+   "z": 12.28,
+   "count": 63
+  },
+  {
+   "term": "nursing",
+   "z": 12.15,
+   "count": 47
+  },
+  {
+   "term": "grown older",
+   "z": 11.93,
+   "count": 48
+  },
+  {
+   "term": "preschool",
+   "z": 11.86,
+   "count": 44
+  },
+  {
+   "term": "immediate family",
+   "z": 11.85,
+   "count": 56
+  },
+  {
+   "term": "bachelors degree",
+   "z": 11.77,
+   "count": 43
+  },
+  {
+   "term": "major",
+   "z": 11.62,
+   "count": 100
+  },
+  {
+   "term": "counselor",
+   "z": 11.59,
+   "count": 43
+  },
+  {
+   "term": "knew",
+   "z": 11.5,
+   "count": 168
+  },
+  {
+   "term": "may",
+   "z": 11.44,
+   "count": 381
+  },
+  {
+   "term": "math",
+   "z": 11.32,
+   "count": 83
+  },
+  {
+   "term": "hindsight",
+   "z": 11.28,
+   "count": 47
+  },
+  {
+   "term": "members",
+   "z": 11.27,
+   "count": 69
+  },
+  {
+   "term": "masters",
+   "z": 11.06,
+   "count": 51
+  },
+  {
+   "term": "wouldn",
+   "z": 10.95,
+   "count": 122
+  },
+  {
+   "term": "apartment complex",
+   "z": 10.93,
+   "count": 38
+  },
+  {
+   "term": "changed mind",
+   "z": 10.8,
+   "count": 36
+  }
+ ],
+ "ESTJ": [
+  {
+   "term": "him",
+   "z": 10.01,
+   "count": 548
+  },
+  {
+   "term": "orange",
+   "z": 9.33,
+   "count": 21
+  },
+  {
+   "term": "son",
+   "z": 8.66,
+   "count": 35
+  },
+  {
+   "term": "types",
+   "z": 8.35,
+   "count": 215
+  },
+  {
+   "term": "attracted attracted",
+   "z": 7.63,
+   "count": 16
+  },
+  {
+   "term": "structure",
+   "z": 7.55,
+   "count": 55
+  },
+  {
+   "term": "inflexible",
+   "z": 7.44,
+   "count": 13
+  },
+  {
+   "term": "emotional",
+   "z": 7.35,
+   "count": 173
+  },
+  {
+   "term": "organized",
+   "z": 7.04,
+   "count": 37
+  },
+  {
+   "term": "bully",
+   "z": 6.87,
+   "count": 22
+  },
+  {
+   "term": "efficiency",
+   "z": 6.8,
+   "count": 29
+  },
+  {
+   "term": "blunt",
+   "z": 6.71,
+   "count": 38
+  },
+  {
+   "term": "efficient",
+   "z": 6.6,
+   "count": 32
+  },
+  {
+   "term": "attracted",
+   "z": 6.26,
+   "count": 50
+  },
+  {
+   "term": "plan",
+   "z": 6.25,
+   "count": 76
+  },
+  {
+   "term": "survey",
+   "z": 6.22,
+   "count": 23
+  },
+  {
+   "term": "right wing",
+   "z": 6.21,
+   "count": 9
+  },
+  {
+   "term": "task",
+   "z": 6.2,
+   "count": 29
+  },
+  {
+   "term": "work",
+   "z": 6.08,
+   "count": 356
+  },
+  {
+   "term": "bossy",
+   "z": 6.02,
+   "count": 14
+  },
+  {
+   "term": "duals",
+   "z": 5.76,
+   "count": 8
+  },
+  {
+   "term": "hes",
+   "z": 5.73,
+   "count": 20
+  },
+  {
+   "term": "robotic",
+   "z": 5.69,
+   "count": 11
+  },
+  {
+   "term": "theyre",
+   "z": 5.68,
+   "count": 23
+  },
+  {
+   "term": "functions",
+   "z": 5.64,
+   "count": 112
+  },
+  {
+   "term": "lazy",
+   "z": 5.64,
+   "count": 41
+  },
+  {
+   "term": "honesty",
+   "z": 5.56,
+   "count": 25
+  },
+  {
+   "term": "tasks",
+   "z": 5.54,
+   "count": 32
+  },
+  {
+   "term": "rigid",
+   "z": 5.54,
+   "count": 28
+  },
+  {
+   "term": "wants",
+   "z": 5.5,
+   "count": 97
+  },
+  {
+   "term": "controlling",
+   "z": 5.46,
+   "count": 25
+  },
+  {
+   "term": "thank",
+   "z": 5.45,
+   "count": 132
+  },
+  {
+   "term": "control",
+   "z": 5.35,
+   "count": 77
+  },
+  {
+   "term": "emotional connection",
+   "z": 5.32,
+   "count": 14
+  },
+  {
+   "term": "balanced",
+   "z": 5.31,
+   "count": 24
+  },
+  {
+   "term": "xstj",
+   "z": 5.31,
+   "count": 7
+  },
+  {
+   "term": "value",
+   "z": 5.29,
+   "count": 91
+  },
+  {
+   "term": "apologise",
+   "z": 5.26,
+   "count": 11
+  },
+  {
+   "term": "direct",
+   "z": 5.18,
+   "count": 48
+  },
+  {
+   "term": "bullying",
+   "z": 5.11,
+   "count": 14
+  }
+ ],
+ "ESFJ": [
+  {
+   "term": "harmony",
+   "z": 11.08,
+   "count": 55
+  },
+  {
+   "term": "social",
+   "z": 10.54,
+   "count": 236
+  },
+  {
+   "term": "survey",
+   "z": 10.52,
+   "count": 36
+  },
+  {
+   "term": "asian",
+   "z": 9.66,
+   "count": 23
+  },
+  {
+   "term": "submission",
+   "z": 7.9,
+   "count": 14
+  },
+  {
+   "term": "user",
+   "z": 7.81,
+   "count": 59
+  },
+  {
+   "term": "social events",
+   "z": 7.67,
+   "count": 14
+  },
+  {
+   "term": "gossip",
+   "z": 7.48,
+   "count": 25
+  },
+  {
+   "term": "please",
+   "z": 7.26,
+   "count": 103
+  },
+  {
+   "term": "sentinel",
+   "z": 7.09,
+   "count": 12
+  },
+  {
+   "term": "disagreeable",
+   "z": 6.77,
+   "count": 11
+  },
+  {
+   "term": "dysphoria",
+   "z": 6.71,
+   "count": 12
+  },
+  {
+   "term": "fck",
+   "z": 6.69,
+   "count": 10
+  },
+  {
+   "term": "guardian",
+   "z": 6.67,
+   "count": 15
+  },
+  {
+   "term": "steal",
+   "z": 6.55,
+   "count": 13
+  },
+  {
+   "term": "overbearing",
+   "z": 6.51,
+   "count": 12
+  },
+  {
+   "term": "disney",
+   "z": 6.44,
+   "count": 12
+  },
+  {
+   "term": "close relationships",
+   "z": 6.36,
+   "count": 12
+  },
+  {
+   "term": "user may",
+   "z": 6.35,
+   "count": 9
+  },
+  {
+   "term": "kpop",
+   "z": 6.34,
+   "count": 9
+  },
+  {
+   "term": "removed",
+   "z": 6.23,
+   "count": 25
+  },
+  {
+   "term": "aims",
+   "z": 6.21,
+   "count": 10
+  },
+  {
+   "term": "anarchy",
+   "z": 6.17,
+   "count": 11
+  },
+  {
+   "term": "moderator",
+   "z": 6.09,
+   "count": 11
+  },
+  {
+   "term": "robin",
+   "z": 5.88,
+   "count": 8
+  },
+  {
+   "term": "filipino",
+   "z": 5.88,
+   "count": 8
+  },
+  {
+   "term": "berx",
+   "z": 5.88,
+   "count": 8
+  },
+  {
+   "term": "others",
+   "z": 5.85,
+   "count": 247
+  },
+  {
+   "term": "alignment",
+   "z": 5.75,
+   "count": 17
+  },
+  {
+   "term": "posts",
+   "z": 5.72,
+   "count": 44
+  },
+  {
+   "term": "group",
+   "z": 5.66,
+   "count": 117
+  },
+  {
+   "term": "hood",
+   "z": 5.65,
+   "count": 8
+  },
+  {
+   "term": "win win",
+   "z": 5.56,
+   "count": 8
+  },
+  {
+   "term": "social harmony",
+   "z": 5.5,
+   "count": 11
+  },
+  {
+   "term": "stolen",
+   "z": 5.34,
+   "count": 7
+  },
+  {
+   "term": "malleable",
+   "z": 5.34,
+   "count": 7
+  },
+  {
+   "term": "typology",
+   "z": 5.32,
+   "count": 31
+  },
+  {
+   "term": "prism",
+   "z": 5.29,
+   "count": 8
+  },
+  {
+   "term": "destiny",
+   "z": 5.29,
+   "count": 8
+  },
+  {
+   "term": "rap",
+   "z": 5.27,
+   "count": 10
+  }
+ ],
+ "ISTP": [
+  {
+   "term": "actually",
+   "z": 16.86,
+   "count": 612
+  },
+  {
+   "term": "yelling",
+   "z": 14.4,
+   "count": 53
+  },
+  {
+   "term": "hadn",
+   "z": 13.8,
+   "count": 52
+  },
+  {
+   "term": "shower",
+   "z": 12.31,
+   "count": 56
+  },
+  {
+   "term": "roommate",
+   "z": 11.97,
+   "count": 45
+  },
+  {
+   "term": "handsome",
+   "z": 11.43,
+   "count": 33
+  },
+  {
+   "term": "though",
+   "z": 10.96,
+   "count": 369
+  },
+  {
+   "term": "yelled",
+   "z": 10.53,
+   "count": 29
+  },
+  {
+   "term": "charges",
+   "z": 10.33,
+   "count": 26
+  },
+  {
+   "term": "wherein",
+   "z": 9.88,
+   "count": 36
+  },
+  {
+   "term": "therapist",
+   "z": 9.67,
+   "count": 62
+  },
+  {
+   "term": "approached",
+   "z": 9.64,
+   "count": 41
+  },
+  {
+   "term": "babysitting",
+   "z": 9.44,
+   "count": 23
+  },
+  {
+   "term": "mom",
+   "z": 9.3,
+   "count": 110
+  },
+  {
+   "term": "after having",
+   "z": 8.97,
+   "count": 21
+  },
+  {
+   "term": "landlord",
+   "z": 8.24,
+   "count": 23
+  },
+  {
+   "term": "apartment",
+   "z": 8.12,
+   "count": 35
+  },
+  {
+   "term": "thrown off",
+   "z": 8.09,
+   "count": 16
+  },
+  {
+   "term": "never cared",
+   "z": 8.05,
+   "count": 18
+  },
+  {
+   "term": "roommate landlord",
+   "z": 8.05,
+   "count": 17
+  },
+  {
+   "term": "high school",
+   "z": 7.93,
+   "count": 72
+  },
+  {
+   "term": "jocks",
+   "z": 7.89,
+   "count": 16
+  },
+  {
+   "term": "trend",
+   "z": 7.87,
+   "count": 27
+  },
+  {
+   "term": "deep inside",
+   "z": 7.87,
+   "count": 27
+  },
+  {
+   "term": "summer classes",
+   "z": 7.84,
+   "count": 15
+  },
+  {
+   "term": "boyfriend",
+   "z": 7.79,
+   "count": 62
+  },
+  {
+   "term": "care",
+   "z": 7.74,
+   "count": 245
+  },
+  {
+   "term": "mother",
+   "z": 7.63,
+   "count": 78
+  },
+  {
+   "term": "occurred",
+   "z": 7.59,
+   "count": 21
+  },
+  {
+   "term": "starting",
+   "z": 7.55,
+   "count": 72
+  },
+  {
+   "term": "thought occurred",
+   "z": 7.55,
+   "count": 15
+  },
+  {
+   "term": "sweet person",
+   "z": 7.47,
+   "count": 14
+  },
+  {
+   "term": "kiss",
+   "z": 7.45,
+   "count": 23
+  },
+  {
+   "term": "someone actually",
+   "z": 7.41,
+   "count": 22
+  },
+  {
+   "term": "homeless",
+   "z": 7.4,
+   "count": 23
+  },
+  {
+   "term": "having",
+   "z": 7.36,
+   "count": 237
+  },
+  {
+   "term": "adult",
+   "z": 7.32,
+   "count": 71
+  },
+  {
+   "term": "gig",
+   "z": 7.31,
+   "count": 13
+  },
+  {
+   "term": "fact",
+   "z": 7.28,
+   "count": 116
+  },
+  {
+   "term": "grow older",
+   "z": 7.28,
+   "count": 16
+  }
+ ],
+ "ISFP": [
+  {
+   "term": "songs",
+   "z": 12.62,
+   "count": 60
+  },
+  {
+   "term": "subtype",
+   "z": 9.1,
+   "count": 24
+  },
+  {
+   "term": "passionate",
+   "z": 8.97,
+   "count": 43
+  },
+  {
+   "term": "lyrics",
+   "z": 8.95,
+   "count": 28
+  },
+  {
+   "term": "art",
+   "z": 8.9,
+   "count": 69
+  },
+  {
+   "term": "naive",
+   "z": 8.27,
+   "count": 26
+  },
+  {
+   "term": "music",
+   "z": 8.01,
+   "count": 101
+  },
+  {
+   "term": "relate",
+   "z": 7.73,
+   "count": 122
+  },
+  {
+   "term": "planet",
+   "z": 7.61,
+   "count": 27
+  },
+  {
+   "term": "prey",
+   "z": 7.55,
+   "count": 14
+  },
+  {
+   "term": "memories",
+   "z": 7.38,
+   "count": 41
+  },
+  {
+   "term": "nostalgic",
+   "z": 7.25,
+   "count": 20
+  },
+  {
+   "term": "stoned",
+   "z": 7.22,
+   "count": 13
+  },
+  {
+   "term": "elegant",
+   "z": 7.11,
+   "count": 13
+  },
+  {
+   "term": "present",
+   "z": 7.08,
+   "count": 86
+  },
+  {
+   "term": "artistic",
+   "z": 6.76,
+   "count": 21
+  },
+  {
+   "term": "cool person",
+   "z": 6.65,
+   "count": 11
+  },
+  {
+   "term": "myself",
+   "z": 6.44,
+   "count": 418
+  },
+  {
+   "term": "outspoken",
+   "z": 6.32,
+   "count": 11
+  },
+  {
+   "term": "artsy",
+   "z": 6.3,
+   "count": 10
+  },
+  {
+   "term": "climbing",
+   "z": 6.29,
+   "count": 15
+  },
+  {
+   "term": "peaceful",
+   "z": 6.14,
+   "count": 22
+  },
+  {
+   "term": "talkative",
+   "z": 6.09,
+   "count": 29
+  },
+  {
+   "term": "idealism",
+   "z": 6.08,
+   "count": 11
+  },
+  {
+   "term": "icon",
+   "z": 6.06,
+   "count": 9
+  },
+  {
+   "term": "smile",
+   "z": 6.04,
+   "count": 39
+  },
+  {
+   "term": "values",
+   "z": 6.01,
+   "count": 101
+  },
+  {
+   "term": "north",
+   "z": 5.93,
+   "count": 12
+  },
+  {
+   "term": "high expectations",
+   "z": 5.92,
+   "count": 10
+  },
+  {
+   "term": "vanilla",
+   "z": 5.84,
+   "count": 21
+  },
+  {
+   "term": "aesthetics",
+   "z": 5.8,
+   "count": 18
+  },
+  {
+   "term": "ixfp",
+   "z": 5.78,
+   "count": 12
+  },
+  {
+   "term": "dictatorship",
+   "z": 5.64,
+   "count": 8
+  },
+  {
+   "term": "missed him",
+   "z": 5.58,
+   "count": 8
+  },
+  {
+   "term": "writing",
+   "z": 5.52,
+   "count": 65
+  },
+  {
+   "term": "play games",
+   "z": 5.34,
+   "count": 13
+  },
+  {
+   "term": "protagonist",
+   "z": 5.34,
+   "count": 12
+  },
+  {
+   "term": "let live",
+   "z": 5.24,
+   "count": 10
+  },
+  {
+   "term": "drawings",
+   "z": 5.22,
+   "count": 8
+  },
+  {
+   "term": "contacted",
+   "z": 5.22,
+   "count": 8
+  }
+ ],
+ "ESTP": [
+  {
+   "term": "action",
+   "z": 10.26,
+   "count": 76
+  },
+  {
+   "term": "may",
+   "z": 8.69,
+   "count": 214
+  },
+  {
+   "term": "cuz",
+   "z": 8.6,
+   "count": 54
+  },
+  {
+   "term": "bro",
+   "z": 8.41,
+   "count": 40
+  },
+  {
+   "term": "shit",
+   "z": 8.09,
+   "count": 85
+  },
+  {
+   "term": "immediate",
+   "z": 7.9,
+   "count": 43
+  },
+  {
+   "term": "immersive",
+   "z": 7.86,
+   "count": 13
+  },
+  {
+   "term": "fandoms",
+   "z": 7.32,
+   "count": 21
+  },
+  {
+   "term": "duty",
+   "z": 7.29,
+   "count": 19
+  },
+  {
+   "term": "pragmatism",
+   "z": 7.21,
+   "count": 11
+  },
+  {
+   "term": "stuff",
+   "z": 6.92,
+   "count": 137
+  },
+  {
+   "term": "thrill",
+   "z": 6.89,
+   "count": 12
+  },
+  {
+   "term": "sex",
+   "z": 6.83,
+   "count": 36
+  },
+  {
+   "term": "body",
+   "z": 6.63,
+   "count": 65
+  },
+  {
+   "term": "ops",
+   "z": 6.61,
+   "count": 12
+  },
+  {
+   "term": "meditation",
+   "z": 6.61,
+   "count": 21
+  },
+  {
+   "term": "environment",
+   "z": 6.56,
+   "count": 66
+  },
+  {
+   "term": "user",
+   "z": 6.56,
+   "count": 49
+  },
+  {
+   "term": "fandom",
+   "z": 6.54,
+   "count": 11
+  },
+  {
+   "term": "youll",
+   "z": 6.53,
+   "count": 9
+  },
+  {
+   "term": "ntj",
+   "z": 6.53,
+   "count": 9
+  },
+  {
+   "term": "typing",
+   "z": 6.5,
+   "count": 45
+  },
+  {
+   "term": "speaker",
+   "z": 6.47,
+   "count": 12
+  },
+  {
+   "term": "hot",
+   "z": 6.3,
+   "count": 30
+  },
+  {
+   "term": "supporter",
+   "z": 6.27,
+   "count": 9
+  },
+  {
+   "term": "rlly",
+   "z": 6.21,
+   "count": 16
+  },
+  {
+   "term": "deliberate",
+   "z": 6.19,
+   "count": 12
+  },
+  {
+   "term": "magic",
+   "z": 6.08,
+   "count": 18
+  },
+  {
+   "term": "slack",
+   "z": 6.03,
+   "count": 9
+  },
+  {
+   "term": "anchor",
+   "z": 6.02,
+   "count": 10
+  },
+  {
+   "term": "cool",
+   "z": 6.02,
+   "count": 69
+  },
+  {
+   "term": "visible",
+   "z": 5.98,
+   "count": 17
+  },
+  {
+   "term": "sexual",
+   "z": 5.9,
+   "count": 22
+  },
+  {
+   "term": "guys",
+   "z": 5.89,
+   "count": 147
+  },
+  {
+   "term": "characterized",
+   "z": 5.89,
+   "count": 8
+  },
+  {
+   "term": "patience",
+   "z": 5.77,
+   "count": 22
+  },
+  {
+   "term": "stimulation",
+   "z": 5.77,
+   "count": 17
+  },
+  {
+   "term": "genre",
+   "z": 5.74,
+   "count": 14
+  },
+  {
+   "term": "physical",
+   "z": 5.7,
+   "count": 65
+  },
+  {
+   "term": "sensitive",
+   "z": 5.7,
+   "count": 46
+  }
+ ],
+ "ESFP": [
+  {
+   "term": "present",
+   "z": 10.56,
+   "count": 104
+  },
+  {
+   "term": "may",
+   "z": 10.02,
+   "count": 260
+  },
+  {
+   "term": "environment",
+   "z": 8.4,
+   "count": 86
+  },
+  {
+   "term": "meditation",
+   "z": 8.2,
+   "count": 28
+  },
+  {
+   "term": "party",
+   "z": 8.11,
+   "count": 50
+  },
+  {
+   "term": "moment",
+   "z": 7.93,
+   "count": 121
+  },
+  {
+   "term": "integration",
+   "z": 7.89,
+   "count": 19
+  },
+  {
+   "term": "attention",
+   "z": 7.73,
+   "count": 103
+  },
+  {
+   "term": "fun",
+   "z": 7.52,
+   "count": 151
+  },
+  {
+   "term": "willpower",
+   "z": 7.37,
+   "count": 14
+  },
+  {
+   "term": "mindfulness",
+   "z": 7.23,
+   "count": 14
+  },
+  {
+   "term": "aunt",
+   "z": 7.2,
+   "count": 23
+  },
+  {
+   "term": "function",
+   "z": 6.96,
+   "count": 147
+  },
+  {
+   "term": "fantasia",
+   "z": 6.89,
+   "count": 12
+  },
+  {
+   "term": "sensing",
+   "z": 6.88,
+   "count": 40
+  },
+  {
+   "term": "wear",
+   "z": 6.83,
+   "count": 35
+  },
+  {
+   "term": "dance",
+   "z": 6.78,
+   "count": 24
+  },
+  {
+   "term": "clothes",
+   "z": 6.68,
+   "count": 28
+  },
+  {
+   "term": "gamma",
+   "z": 6.56,
+   "count": 10
+  },
+  {
+   "term": "may become",
+   "z": 6.55,
+   "count": 12
+  },
+  {
+   "term": "toy story",
+   "z": 6.54,
+   "count": 11
+  },
+  {
+   "term": "bingo",
+   "z": 6.5,
+   "count": 13
+  },
+  {
+   "term": "present moment",
+   "z": 6.46,
+   "count": 21
+  },
+  {
+   "term": "sister",
+   "z": 6.43,
+   "count": 52
+  },
+  {
+   "term": "objects",
+   "z": 6.42,
+   "count": 22
+  },
+  {
+   "term": "surroundings",
+   "z": 6.37,
+   "count": 21
+  },
+  {
+   "term": "rejection",
+   "z": 6.32,
+   "count": 28
+  },
+  {
+   "term": "minutes before",
+   "z": 6.21,
+   "count": 9
+  },
+  {
+   "term": "energetic",
+   "z": 6.2,
+   "count": 21
+  },
+  {
+   "term": "monsters",
+   "z": 6.15,
+   "count": 11
+  },
+  {
+   "term": "pleasure",
+   "z": 6.1,
+   "count": 20
+  },
+  {
+   "term": "gym",
+   "z": 6.04,
+   "count": 33
+  },
+  {
+   "term": "movement",
+   "z": 5.98,
+   "count": 22
+  },
+  {
+   "term": "static",
+   "z": 5.97,
+   "count": 10
+  },
+  {
+   "term": "parties",
+   "z": 5.96,
+   "count": 25
+  },
+  {
+   "term": "happiness",
+   "z": 5.92,
+   "count": 30
+  },
+  {
+   "term": "sensory",
+   "z": 5.91,
+   "count": 35
+  },
+  {
+   "term": "immediate",
+   "z": 5.89,
+   "count": 39
+  },
+  {
+   "term": "act around",
+   "z": 5.87,
+   "count": 9
+  },
+  {
+   "term": "let happen",
+   "z": 5.78,
+   "count": 9
+  }
+ ]
+}

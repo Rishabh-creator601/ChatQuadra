@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#23253A"
+backgroundColor = "#F6F7FB"
+secondaryBackgroundColor = "#ECEEF5"
+textColor = "#23253A"
+
+[client]
+toolbarMode = "minimal"
+# Visitors see the error type and a generic message, never a traceback (details go to the server log).
+showErrorDetails = "type"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

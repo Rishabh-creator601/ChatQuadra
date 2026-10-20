@@ -1,0 +1,9 @@
+-r requirements.txt
+
+# tests
+pytest>=8
+
+# Reddit data collection and style-model training (community/reddit/scripts)
+numpy>=1.26
+scikit-learn>=1.4
+requests>=2.31

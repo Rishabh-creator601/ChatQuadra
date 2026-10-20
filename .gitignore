@@ -1,0 +1,24 @@
+# Copyrighted reference material: keep local, never commit
+*.pdf
+knowledge/sources/private/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+
+# Reddit raw downloads (verbatim user text): keep local, never commit
+community/reddit/raw/

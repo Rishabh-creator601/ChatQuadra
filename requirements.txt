@@ -1,0 +1,6 @@
+# Runtime dependencies for the Streamlit app (installed by Streamlit Community Cloud).
+# Dev/test/training tools: requirements-dev.txt
+anthropic>=1.6,<2
+openai>=2.0,<3
+pydantic>=2.7,<3
+streamlit>=1.49,<2
